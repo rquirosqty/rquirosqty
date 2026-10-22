@@ -28,11 +28,10 @@ Soy **Rolando Quiros**, Implementador Senior de Odoo con base en Costa Rica. Me 
 
 ## 🚀 Habilidades
 
-### ERP & Desarrollo Odoo
-- ✅ Implementación Odoo 15, 16, 17 & 18
-- ✅ Desarrollo de módulos personalizados (Python / XML / OWL)
+### Implementador Odoo
+- ✅ Implementación Odoo 17,18, 20
 - ✅ Localización Costa Rica (factura electrónica, Hacienda, CCSS)
-- ✅ Migraciones entre versiones (v15 → v17 → v18)
+- ✅ Migraciones entre versiones (v15 → v17 → v18 → v20)
 - ✅ Integraciones API (XMLRPC, REST, webhooks)
 
 ### Infraestructura & DevOps
@@ -41,11 +40,6 @@ Soy **Rolando Quiros**, Implementador Senior de Odoo con base en Costa Rica. Me 
 - ✅ Docker & Virtualización VMware
 - ✅ Cloudflare (DNS, Zero Trust, Tunnels)
 - ✅ Redes Ubiquiti & Mikrotik
-
-### Desarrollo
-- ✅ Python · JavaScript · Node.js · React
-- ✅ Git / GitHub — control de versiones y CI/CD
-- ✅ Automatización con scripts bash/PowerShell
 
 ---
 
@@ -66,7 +60,7 @@ Soy **Rolando Quiros**, Implementador Senior de Odoo con base en Costa Rica. Me 
 
 - 🌐 **Web:** [qwerty.co.cr](https://qwerty.co.cr)
 - 📧 **Email:** rquiros@qwerty.co.cr
-- 💬 **WhatsApp:** [Escribinos aquí](https://wa.me/50688888888)
+- 💬 **WhatsApp:** [Escribinos aquí](https://wa.me/50689714537)
 
 ---
 
