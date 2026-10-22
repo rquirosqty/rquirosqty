@@ -18,8 +18,8 @@
 
 Soy **Rolando Quiros**, Implementador Senior de Odoo con base en Costa Rica. Me especializo en transformación digital para empresas medianas y grandes, integrando procesos de negocio con soluciones ERP robustas.
 
-- 🔭 Actualmente trabajando en implementaciones **Odoo 17 & 18** para empresas en Costa Rica
-- 🌱 Investigando las últimas novedades de **Odoo 18** y automatización con IA
+- 🔭 Actualmente trabajando en implementaciones **Odoo 17, 18 y 20 ** para empresas en Costa Rica y CentroAmerica
+- 🌱 Investigando las últimas novedades de **Odoo 18 y 20** y automatización con IA
 - 💼 Socio Implementador certificado — [Qwerty](https://qwerty.co.cr)
 - 📍 Costa Rica — disponible para proyectos locales e internacionales
 - 📫 Contacto: **rquiros@qwerty.co.cr**
